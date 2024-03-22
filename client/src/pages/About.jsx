@@ -12,17 +12,12 @@ export default function About() {
             </p>
 
             <p>
-              On this blog, you'll find weekly articles and tutorials on topics
-              such as web development, software engineering, and programming
-              languages. Sahand is always learning and exploring new
-              technologies, so be sure to check back often for new content!
+            An About Us page is a section on a website that provides information about a company, organization, or individual. It is an opportunity to tell your brand’s story, share your vision, history, values, and achievements, and introduce team members. This is where you build trust and credibility with customers.
             </p>
 
             <p>
-              We encourage you to leave comments on our posts and engage with
-              other readers. You can like other people's comments and reply to
-              them as well. We believe that a community of learners can help
-              each other grow and improve.
+              You can leave comments on posts and You can like other people's comments and reply to
+              them as well.
             </p>
           </div>
         </div>

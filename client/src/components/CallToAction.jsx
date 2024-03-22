@@ -1,4 +1,5 @@
 import { Button } from 'flowbite-react';
+import banner1 from '../banner.png';
 
 export default function CallToAction() {
   return (
@@ -14,7 +15,7 @@ export default function CallToAction() {
         </h3>
         </div>
         <div className="p-7 flex-1">
-            <img src="https://bairesdev.mo.cloudinary.net/blog/2023/08/What-Is-JavaScript-Used-For.jpg" />
+            <img src={banner1} />
         </div>
     </div>
   )
